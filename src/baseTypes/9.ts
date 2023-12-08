@@ -4,7 +4,7 @@
 type Status = 'open' | 'close';
 
 type Details = {
-  [key: string]: object;
+  [key: string]: Date;
 };
 
 type Pages = {
