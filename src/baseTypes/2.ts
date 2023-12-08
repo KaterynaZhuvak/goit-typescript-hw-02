@@ -1,4 +1,5 @@
-let anything = -20;
+// any or unknown
+let anything: any = -20;
 anything = 'Text';
 anything = {};
 
